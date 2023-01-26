@@ -1,0 +1,387 @@
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.dll.config
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.pdb
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.exe
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.exe.config
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.rsp
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.exe
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.exe.config
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.rsp
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Console.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.exe
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.exe.config
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.rsp
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Helpers.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Mvc.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Razor.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Razor.xml
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.xml
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Helpers.xml
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Mvc.xml
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csprojAssemblyReference.cache
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.CopyComplete
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.dll
+C:\Users\Jorge Luis\source\repos\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.pdb
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.dll.config
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.pdb
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.exe
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.exe.config
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.rsp
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.exe
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.exe.config
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.rsp
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.AppContext.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Console.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Compression.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Pipes.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.AccessControl.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Claims.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.ValueTuple.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XPath.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.exe
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.exe.config
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.rsp
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\VBCSCompiler.exe
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Helpers.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Mvc.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Razor.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Deployment.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Razor.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Razor.xml
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.xml
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Deployment.xml
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Razor.xml
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Helpers.xml
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Mvc.xml
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Razor.resources.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.resources.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Helpers.resources.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Mvc.resources.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csprojAssemblyReference.cache
+E:\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.CoreCompileInputs.cache
+E:\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.CopyComplete
+E:\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.dll
+E:\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.dll.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.exe.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.rsp
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.exe.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.rsp
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Console.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.exe.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.rsp
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Helpers.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Mvc.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Razor.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Razor.xml
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.xml
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Helpers.xml
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Mvc.xml
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.pdb
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.xml
+C:\Users\Heiner\Desktop\Progra III\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.dll.config
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.pdb
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.exe
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.exe.config
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.rsp
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.exe
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.exe.config
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.rsp
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Console.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.exe
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.exe.config
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.rsp
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Helpers.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Mvc.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Razor.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.xml
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Razor.xml
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.xml
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Helpers.xml
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Mvc.xml
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csprojAssemblyReference.cache
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.CopyComplete
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.dll
+C:\Users\Heiner\Desktop\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.pdb
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.dll.config
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\SistemaMuseoMVC.pdb
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.exe
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.exe.config
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csc.rsp
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.exe
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.exe.config
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\csi.rsp
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.AppContext.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Collections.Immutable.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Console.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Compression.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.FileSystem.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.IO.Pipes.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Reflection.Metadata.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.AccessControl.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Claims.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.ValueTuple.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XPath.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.exe
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.exe.config
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\vbc.rsp
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\VBCSCompiler.exe
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\roslyn\VBCSCompiler.exe.config
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.SqlServer.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.Web.Infrastructure.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Helpers.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Mvc.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Razor.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Deployment.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Razor.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.xml
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\EntityFramework.SqlServer.xml
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Razor.xml
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.xml
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Deployment.xml
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Webpages.Razor.xml
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Helpers.xml
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\System.Web.Mvc.xml
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Razor.resources.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.resources.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.Deployment.resources.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Webpages.Razor.resources.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Helpers.resources.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\bin\es\System.Web.Mvc.resources.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.csproj.CopyComplete
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.dll
+G:\Archivos de Carrera\2019\Progra III\Prueba\SistemaMuseoMVC\SistemaMuseoMVC\obj\Debug\SistemaMuseoMVC.pdb

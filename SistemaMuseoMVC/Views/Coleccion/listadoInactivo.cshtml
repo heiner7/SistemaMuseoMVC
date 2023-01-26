@@ -1,0 +1,87 @@
+﻿@model IEnumerable<EntidadColeccion>
+<html>
+<head>
+    <title>Listado de Museo</title>
+
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.3.1.js"
+            integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+            crossorigin="anonymous"></script>
+
+</head>
+<!--hola-->
+<body style="margin-top:20px">
+    <form class="form-horizontal" id="form1">
+        <div class="container">
+            <div class="row">
+                <div class="well well-sm">
+                    <fieldset>
+                        <table class="table table-hover" style="font-size:small">
+                            <thead class="text-primary">
+                                <tr>
+                                    <th scope="row">
+                                        @Html.DisplayNameFor(model => model.Coleccion_id)
+                                    </th>
+                                    <th scope="row">
+                                        @Html.DisplayNameFor(model => model.Museo_id)
+                                    </th>
+                                    <th scope="row">
+                                        @Html.DisplayNameFor(model => model.Coleccion_nombre)
+                                    </th>
+                                    <th scope="row">
+                                        @Html.DisplayNameFor(model => model.Coleccion_siglo)
+                                    </th>
+                                    <th scope="row">
+                                        @Html.DisplayNameFor(model => model.Coleccion_observaciones)
+                                    </th>
+                                    <th scope="row">
+                                        @Html.DisplayNameFor(model => model.Coleccion_estado)
+                                    </th>
+                                </tr>
+                            </thead>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Coleccion_id)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Museo_id)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Coleccion_nombre)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Coleccion_siglo)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Coleccion_observaciones)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Coleccion_estado)
+                                    </td>
+
+                                    <td>
+                                        @Html.ActionLink("Activar", "activarColeccion", new { Coleccion_id = item.Coleccion_id },
+                                                        new { onclick = "return confirm('Está seguro de activar este Coleccion?');" })
+
+                                    </td>
+                                </tr>
+
+                            }
+
+                        </table>
+                        <link href="~/StyleMenu.css" rel="stylesheet" />
+                        <div id="menu">
+                            <ul>
+                                <li>@Html.ActionLink("Regresar", "listado", "Coleccion")</li>
+                                <li>@Html.ActionLink("Museo", "insertarMuseo", "Museo")</li>
+                            </ul>
+                        </div>
+                    </fieldset>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

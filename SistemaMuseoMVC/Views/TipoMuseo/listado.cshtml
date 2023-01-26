@@ -1,0 +1,77 @@
+﻿@model IEnumerable<EntidadTipoMuseo>
+<html>
+<head>
+    <title>Listado de TipoMuseo</title>
+
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.3.1.js"
+            integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+            crossorigin="anonymous"></script>
+
+</head>
+<!--hola-->
+<body style="margin-top:20px">
+    <form class="form-horizontal" id="form1">
+        <div class="container">
+            <div class="row">
+                <div class="well well-sm">
+                    <fieldset>
+                        <table class="table table-hover" style="font-size:small">
+                            <thead class="text-primary">
+                                <tr>
+                                    <th scope="row">
+                                        @Html.DisplayNameFor(model => model.TipoMuseo_id)
+                                    </th>
+                                    <th scope="row">
+                                        @Html.DisplayNameFor(model => model.TipoMuseo_tipo)
+                                    </th>
+                                    <th scope="row">
+                                        @Html.DisplayNameFor(model => model.TipoMuseo_descripcion)
+                                    </th>
+                                    <th scope="row">
+                                        @Html.DisplayNameFor(model => model.TipoMuseo_estado)
+                                    </th>
+                                </tr>
+                            </thead>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TipoMuseo_id)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TipoMuseo_tipo)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TipoMuseo_descripcion)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TipoMuseo_estado)
+                                    </td>
+
+                                    <td>
+                                        @Html.ActionLink("Modificar", "modificarTipoMuseo", new { TipoMuseo_id = item.TipoMuseo_id }) |
+                                        @Html.ActionLink("Eliminar", "eliminarTipoMuseo", new { TipoMuseo_id = item.TipoMuseo_id },
+                                                        new { onclick = "return confirm('Está seguro de borrar este TipoMuseo?');" })
+                                    </td>
+                                </tr>
+
+                            }
+                        </table>
+                        <link href="~/StyleMenu.css" rel="stylesheet" />
+                        <div id="menu">
+                            <ul>
+
+                                <li>@Html.ActionLink("TipoMuseo nuevo", "insertarTipoMuseo", "TipoMuseo")</li>
+                                <li>@Html.ActionLink("Activar TipoMuseo", "listadoInactivo", "TipoMuseo")</li>
+                                <li>@Html.ActionLink("Menu", "insertarMuseo", "Museo")</li>
+
+                            </ul>
+                        </div>
+                    </fieldset>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

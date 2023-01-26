@@ -1,0 +1,104 @@
+﻿@model EntidadMuseo
+<html>
+@{
+    ViewBag.Title = "Insertar de Museo";
+    List<SelectListItem> lis = new List<SelectListItem>();
+}
+
+<head>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.2.1.js"
+            integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+            crossorigin="anonymous"></script>
+
+    <title>Insertar de Museo</title>
+
+    <link href="~/StyleMenu.css" rel="stylesheet" />
+</head>
+<body style="margin-top:20px">
+
+    <form class="form-horizontal" id="form1">
+        <div class="container">
+            <div class="row">
+                <div class="well well-sm">
+                    <fieldset>
+
+                        @using (Html.BeginForm())
+                        {
+
+
+                            @Html.AntiForgeryToken()
+
+                            <div class="form-horizontal">
+
+                                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.TipoMuseo_id, htmlAttributes: new { @class = "control-label col-md-2" })
+                                    <div class="col-md-10">
+                                        @Html.EditorFor(model => model.TipoMuseo_id, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessageFor(model => model.TipoMuseo_id, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.Museo_nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+                                    <div class="col-md-10">
+                                        @Html.EditorFor(model => model.Museo_nombre, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessageFor(model => model.Museo_nombre, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.Museo_instalacion, htmlAttributes: new { @class = "control-label col-md-2" })
+                                    <div class="col-md-10">
+                                        @Html.EditorFor(model => model.Museo_instalacion, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessageFor(model => model.Museo_instalacion, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.Museo_estado, htmlAttributes: new { @class = "control-label col-md-2" })
+                                    <div class="col-md-10">
+                                        @Html.DropDownListFor(model => model.Museo_estado, new SelectList(
+                                        new List<Object>
+                                        {
+                                            new{ value = "A", text="Activo"},
+
+                                        },
+                                        "value",
+                                        "text",
+                                        1))
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-md-offset-2 col-md-10">
+                                        <input type="submit" value="Create" class="btn btn-default" style="BORDER: rgb(128,128,128) 1px double; BACKGROUND-COLOR: rgb(23,214,52)" />
+                                    </div>
+                                </div>
+                                <div id="menu">
+                                    <ul>
+                                        <li>@Html.ActionLink("TipoMuseo", "insertarTipoMuseo", "TipoMuseo")</li>
+                                        <li>@Html.ActionLink("Artista", "insertarArtista", "Artista")</li>
+                                        <li>@Html.ActionLink("TipoObra", "insertarTipoObra", "TipoObra")</li>
+                                        <li>@Html.ActionLink("Coleccion", "insertarColeccion", "Coleccion")</li>
+                                        <li>@Html.ActionLink("Obra", "insertarObra", "Obra")</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        }
+                    </fieldset>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+
+<div id="menu">
+    <ul>
+        <li>@Html.ActionLink("Back to List", "listado", "Museo")</li>
+    </ul>
+</div>
+
+
